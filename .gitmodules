@@ -13,3 +13,6 @@
 [submodule "paradigms-2023"]
 	path = paradigms-2023
 	url = https://github.com/vertuxty/paradigms-2023.git
+[submodule "prog-intro"]
+	path = prog-intro
+	url = https://github.com/vertuxty/prog-intro.git
