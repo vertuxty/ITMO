@@ -4,3 +4,6 @@
 [submodule "Web"]
 	path = Web
 	url = https://github.com/vertuxty/Web-course.git
+[submodule "skkv_cpp"]
+	path = skkv_cpp
+	url = https://github.com/vertuxty/skkv_cpp_y2022.git
