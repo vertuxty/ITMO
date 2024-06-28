@@ -1,0 +1,3 @@
+[submodule "algo_course"]
+	path = algo_course
+	url = https://github.com/vertuxty/algo.git
