@@ -19,3 +19,6 @@
 [submodule "OSLite"]
 	path = OSLite
 	url = https://github.com/vertuxty/OSLite.git
+[submodule "dmLabs"]
+	path = dmLabs
+	url = https://github.com/vertuxty/dm_labs.git
