@@ -1,3 +1,6 @@
 [submodule "algo_course"]
 	path = algo_course
 	url = https://github.com/vertuxty/algo.git
+[submodule "Web"]
+	path = Web
+	url = https://github.com/vertuxty/Web-course.git
