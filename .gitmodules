@@ -16,3 +16,6 @@
 [submodule "prog-intro"]
 	path = prog-intro
 	url = https://github.com/vertuxty/prog-intro.git
+[submodule "OSLite"]
+	path = OSLite
+	url = https://github.com/vertuxty/OSLite.git
