@@ -7,3 +7,6 @@
 [submodule "skkv_cpp"]
 	path = skkv_cpp
 	url = https://github.com/vertuxty/skkv_cpp_y2022.git
+[submodule "comp-arch"]
+	path = comp-arch
+	url = https://github.com/vertuxty/comp_arhc.git
