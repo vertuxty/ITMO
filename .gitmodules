@@ -10,3 +10,6 @@
 [submodule "comp-arch"]
 	path = comp-arch
 	url = https://github.com/vertuxty/comp_arhc.git
+[submodule "paradigms-2023"]
+	path = paradigms-2023
+	url = https://github.com/vertuxty/paradigms-2023.git
