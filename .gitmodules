@@ -22,3 +22,6 @@
 [submodule "dmLabs"]
 	path = dmLabs
 	url = https://github.com/vertuxty/dm_labs.git
+[submodule "opt-methods"]
+	path = opt-methods
+	url = https://github.com/vertuxty/Optimization-methods.git
