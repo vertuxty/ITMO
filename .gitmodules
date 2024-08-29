@@ -25,3 +25,6 @@
 [submodule "opt-methods"]
 	path = opt-methods
 	url = https://github.com/vertuxty/Optimization-methods.git
+[submodule "java-advanced"]
+	path = java-advanced
+	url = https://github.com/vertuxty/java-advanced.git
